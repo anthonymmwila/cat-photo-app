@@ -1,1 +1,1 @@
-# Cat-Photo-App_RWD-Project-1.1
+# Cat-Photo-App_Responsive Web Design-Project-1.1
